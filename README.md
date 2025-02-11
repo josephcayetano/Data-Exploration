@@ -6,4 +6,4 @@
 
 3. D599 Task 2 Final.docx - A Word document file that contains the report for Task 2.
 
-4. Health Insurance Dataset.xlsx - The XLSx file used for Task 2.
+4. Health Insurance Dataset.xlsx - The XLSX file used for Task 2.
