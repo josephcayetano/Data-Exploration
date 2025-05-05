@@ -1,5 +1,9 @@
 # D599-Task-2-Data-Exploration
 
+### Overview
+This project explores relationships between health insurance variables and risk factors, using statistical analysis and visualization to support data-driven decisions.
+
+
 ### Data Exploration and Statistical Testing – Insurance Dataset
 -	Conducted univariate and bivariate statistical analysis (Pearson correlation, cross-tabulation) on variables like BMI, charges, smoker status, and gender.
 -	Visualized findings using boxplots, scatterplots, and bar charts; implemented hypothesis testing (t-tests, Mann-Whitney U test) to assess significant differences.
