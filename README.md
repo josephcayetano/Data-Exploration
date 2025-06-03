@@ -1,4 +1,4 @@
-# D599-Task-2-Data-Exploration
+# Data Exploration
 
 ### Overview
 This project explores relationships between health insurance variables and risk factors, using statistical analysis and visualization to support data-driven decisions.
