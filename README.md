@@ -1,13 +1,13 @@
 # Data Exploration
 
 ### Overview
-This project explores relationships between health insurance variables and risk factors, using statistical analysis and visualization to support data-driven decisions.
+This project looked at how health insurance variables relate to risk factors, using statistics and visuals to support informed decisions.
 
 
 ### Data Exploration and Statistical Testing – Insurance Dataset
--	Conducted univariate and bivariate statistical analysis (Pearson correlation, cross-tabulation) on variables like BMI, charges, smoker status, and gender.
--	Visualized findings using boxplots, scatterplots, and bar charts; implemented hypothesis testing (t-tests, Mann-Whitney U test) to assess significant differences.
--	Delivered actionable insights on insurance risk factors and cost drivers, supporting data-driven business decisions.
+-	Analyzed variables like BMI, charges, smoker status, and gender using basic statistics and correlation tests
+-	Used charts (boxplots, scatterplots, bar graphs) and ran tests (t-tests, Mann-Whitney U) to find meaningful differences
+-	Shared key insights about risk factors and cost drivers to help with insurance-related decision-making
 
 
 ### Files
